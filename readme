@@ -1,0 +1,14 @@
+Exercise:
+You are given two arrays: fruits and fruit2. Perform the following operations on the arrays and answer the questions:
+    1. Initial Setup:
+        ◦ fruits = ["Banana", "Orange", "Apple", "Mango"]
+        ◦ fruit2 = ["1", "2", "3"]
+    2. Step-by-step Tasks:
+        ◦ Remove the last fruit from fruits using the pop() method.
+        ◦ Remove the first fruit from fruits using the shift() method.
+        ◦ Add a new fruit, "Lemon", to the beginning of the fruits array using unshift().
+        ◦ Concatenate fruit2 to the modified fruits arra­y using concat(). Store the result in a new variable con.
+        ◦ Convert the new con array to a comma-separated string using toString().
+        ◦ Flatten the following multi-dimensional array myArr = [[1, 2], [3, 4], [5, 6]] using the flat() method.
+        ◦ Check the third element of the modified fruits array using the at() method.
+        ◦ Check the length of the modified fruits array using length.
